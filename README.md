@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HellBus1&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## &#x1f4c8; Speaks in
+## &#x1f4c8; Used daily in public
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HellBus1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
