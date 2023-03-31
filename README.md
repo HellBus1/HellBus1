@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **Kotlin, Flutter, React Native, TDD & Clean Architecture, Cloud Computing, Blockchain, Security, Digital Business**
 - 👨‍💻 All of my projects are available at [https://github.com/HellBus1?tab=repositories](https://github.com/HellBus1?tab=repositories)
-<!-- - 📝 I regularly write articles on [https://petruknisme.medium.com](https://petruknisme.medium.com) -->
 - 📫 How to reach me **syubbanfakhriya@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/syubban/](https://www.linkedin.com/in/syubban/)
 
@@ -50,4 +49,10 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&logo=gitlab)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
+
+##### Cloud Stuff
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
