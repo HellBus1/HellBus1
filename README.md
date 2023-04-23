@@ -28,7 +28,6 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react-native)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-05122A?style=flat&logo=expo)&nbsp;
-pt)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=Next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
