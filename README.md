@@ -10,6 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/HellBus1?tab=repositories](https://github.com/HellBus1?tab=repositories)
 - 📫 How to reach me **syubbanfakhriya@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/syubban/](https://www.linkedin.com/in/syubban/)
+- 📄 I write article in [https://medium.com/@syubbanfakhriya](https://medium.com/@syubbanfakhriya)
 
 ### 📊 &nbsp;Stats
 
