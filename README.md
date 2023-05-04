@@ -6,7 +6,6 @@
 
 ---
 
-- 🌱 I’m currently learning **Kotlin, Flutter, React Native, TDD & Clean Architecture, Cloud Computing, Blockchain, Security, Digital Business**
 - 👨‍💻 All of my projects are available at [https://github.com/HellBus1?tab=repositories](https://github.com/HellBus1?tab=repositories)
 - 📫 How to reach me **syubbanfakhriya@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/syubban/](https://www.linkedin.com/in/syubban/)
