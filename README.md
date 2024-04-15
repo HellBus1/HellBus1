@@ -34,7 +34,9 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-05122A?style=flat&logo=codeigniter)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
 
 ##### Cloud Stuff
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Openshift](https://img.shields.io/badge/-Openshift-05122A?style=flat&logo=redhat)&nbsp;
