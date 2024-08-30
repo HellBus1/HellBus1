@@ -14,7 +14,6 @@
 ### 📊 &nbsp;Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HellBus1&layout=compact&show_icons=true">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=HellBus1">
 </p>
 
