@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Syubban Fakhriya - @HellBus1 </h1>
 
 <!-- Current Interest Section -->
-<h3 align="center">IT Enthusiast and still doing side project. Passionate with multiplatform development & digital business. Interested in Software Development and Cloud Computing.</h3>
+<h3 align="center">IT enthusiast working on side projects, passionate about business driven development. I build products with React & TypeScript, and occasionally dive into Kotlin or Java.</h3>
 
 ---
 
