@@ -6,7 +6,7 @@ IT enthusiast working on side projects, passionate about business driven develop
 
 - 🧳 Know about my experiences [https://www.linkedin.com/in/syubban/](LinkedIn)
 - 💻 I write article in [https://medium.com/@syubbanfakhriya](Medium)
-- 📡 My website in [https://personal-portfolio-cbp.pages.dev/](Personal Website)
+- 📡 My website in [https://personal-portfolio-cbp.pages.dev/](Website)
 
 ## 📊 &nbsp;Stats
 
