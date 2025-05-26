@@ -1,12 +1,12 @@
 <!-- Name Section -->
 <h1 align="center">Hi 👋, I'm Fakri </h1>
-IT enthusiast working on side projects, passionate about business driven development. I build products with React & TypeScript, and occasionally dive into Kotlin or Java.
+IT enthusiast working on side projects, passionate about business-driven development. I build products with React & TypeScript, and occasionally dive into Kotlin or Java.
 
 ---
 
 - 🧳 Know about my experiences [LinkedIn](https://www.linkedin.com/in/syubban/)
 - 💻 I write article in the [Medium](https://medium.com/@syubbanfakhriya)
-- 📡 My portfolio is in [Website](https://syubbanfakhriya.com/)
+- 📡 My portfolio is on the [Website](https://syubbanfakhriya.com/)
 
 ## 📊 &nbsp;Stats
 
