@@ -5,8 +5,8 @@ IT enthusiast working on side projects, passionate about business-driven develop
 ---
 
 - 🧳 Know about my experiences [LinkedIn](https://www.linkedin.com/in/syubban/)
-- 💻 I write article in the [Medium](https://medium.com/@syubbanfakhriya)
-- 📡 My portfolio is on the [Website](https://syubbanfakhriya.com/)
+- 💻 I write article in the [Medium](https://medium.com/@fakrii)
+- 📡 My portfolio is on the [Website](https://mattrmost.com/)
 
 ## 📊 &nbsp;Stats
 
